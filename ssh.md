@@ -126,3 +126,5 @@
 
 ## Move static build to web server root
 ``` $ sudo mv -v /home/brad/react_otka_auth/build/* /var/www/html```
+
+https://www.digitalocean.com/community/tutorials/how-to-use-ssh-to-connect-to-a-remote-server
