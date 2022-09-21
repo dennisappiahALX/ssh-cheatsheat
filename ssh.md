@@ -17,12 +17,12 @@
 ### Generate Keys (Local Machine)
 ```$ ssh-keygen```
 
-### Add Key to server in one command
+### Add Key to server (best approach)
 ```> ssh -i ~/.ssh/id_rsa username@ip_address_server```
 
 
-### Add Key to server in one command
-```> cat ~/.ssh/id_rsa.pub | ssh brad@192.168.1.29 "mkdir -p ~/.ssh && chmod 700 ~/.ssh && cat >>  ~/.ssh/authorized_keys```
+### Add Key to server in one command (other keys)
+```> cat ~/.ssh/id_rsa.pub | ssh brad@192.168.1.29 "mkdir -p ~/.ssh && chmod 700 ~/.ssh && cat >>  ~/.ssh/authorized_keys"```
 
 ### Create & copy a file to the server using SCP
 ```$ touch test.txt```
