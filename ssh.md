@@ -22,7 +22,7 @@
 
 
 ### Add Key to server in one command (other keys)
-```> cat ~/.ssh/id_rsa.pub | ssh brad@192.168.1.29 "mkdir -p ~/.ssh && chmod 700 ~/.ssh && cat >>  ~/.ssh/authorized_keys"```
+```> cat ~/.ssh/id_rsa.pub | ssh username@server_ip_address "mkdir -p ~/.ssh && chmod 700 ~/.ssh && cat >>  ~/.ssh/authorized_keys"```
 
 ### Create & copy a file to the server using SCP
 ```$ touch test.txt```
