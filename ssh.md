@@ -131,4 +131,10 @@
 ## Move static build to web server root
 ``` $ sudo mv -v /home/brad/react_otka_auth/build/* /var/www/html```
 
-https://www.digitalocean.com/community/tutorials/how-to-use-ssh-to-connect-to-a-remote-server
+```https://www.digitalocean.com/community/tutorials/how-to-use-ssh-to-connect-to-a-remote-server```
+
+```https://www.digitalocean.com/community/tutorials/how-to-set-up-nginx-server-blocks-virtual-hosts-on-ubuntu-16-04```
+
+```https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-16-04```
+
+```https://www.vultr.com/docs/how-to-configure-uncomplicated-firewall-ufw-on-ubuntu-20-04/```
