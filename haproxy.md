@@ -12,6 +12,8 @@ HAProxy, which stands for High Availability Proxy, is a popular open source soft
 
 Essentials and Introduction- <https://www.youtube.com/watch?v=RxrdC9l7yKk>
 
+HAProxy Configuration Manual - <https://www.haproxy.com/documentation/hapee/latest/configuration/acls/syntax/>
+
 HAProxy Access Control Lists - <https://www.youtube.com/watch?v=b-d-Q_zkuwI>
 
 HAProxy Crash Course (TLS 1.3, HTTPS, HTTP_2 and more)-<https://www.youtube.com/watch?v=qYnA2DFEELw&t=324s>
