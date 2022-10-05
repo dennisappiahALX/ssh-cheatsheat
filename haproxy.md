@@ -22,7 +22,7 @@ HAProxy Crash Course (TLS 1.3, HTTPS, HTTP_2 and more)-<https://www.youtube.com/
 SSL Termination in HAProxy - HAProxy Basics - <https://www.youtube.com/watch?v=cBLYQ8bbe7c>
 
 
-HAProxy Network Error: cannot bind socket (client send request to port 80 ---> HA-PROXY--->send request to apache (port 8080)  )- <HAProxy Network Error: cannot bind socket>
+HAProxy Network Error: cannot bind socket (client send request to port 80 ---> HA-PROXY--->send request to apache (port 8080)  )- <https://www.digitalocean.com/community/tutorials/haproxy-network-error-cannot-bind-socket>
   
 
 
